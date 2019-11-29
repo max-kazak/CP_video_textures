@@ -1,5 +1,12 @@
 # Video Textures
 
+## Results
+
+Following looped videos are the results of applying video textures techniques to two different videos. 
+
+![Candle](videos/out/candle.gif)  
+![Fireplace](videos/out/fireplace.gif)
+
 ## Synopsis
 
 In this project I'm applying computational photography techniques to video, with the purpose of creating [video textures](http://www.cc.gatech.edu/cpl/projects/videotexture/) (infinitely looping pieces of video). These are basically gifs with very smooth transtitions. The process is also described in [Video Textures](http://cs.colby.edu/courses/F07/cs397/papers/schodl-videoTextures-sig00.pdf) (Scholdl, et al; SIGGRAPH 2000).
